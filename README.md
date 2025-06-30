@@ -1,6 +1,6 @@
 # PLoP: Precise LoRA Placement for Efficient Finetuning of Large Models
 
-This project provides a simple script to compute alignment metrics for transformer models on various datasets. This the official PLoP code (paper: https://arxiv.org/abs/2506.20629).
+This project provides a simple script to compute alignment metrics for transformer models on various datasets. This the official code for "PLoP: Precise LoRA Placement for Efficient Finetuning of Large Models" (https://arxiv.org/abs/2506.20629).
 
 ## Usage
 
